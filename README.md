@@ -39,7 +39,7 @@ we had code dependent on multiple calls firing at once. We solved this using Axi
 got moved to different routes and one other was removed with a buggy deleted feature.
 
 ### Major Contributors
-[Paul Como](https://github.com/pcomo24)
-[George Danforth](https://github.com/SpectreiiI)
-[Alston Hsu](https://github.com/alston-hsu)
-[JJ Spetseris](https://github.com/jjspetz)
+[Paul Como](https://github.com/pcomo24)  
+[George Danforth](https://github.com/SpectreiiI)  
+[Alston Hsu](https://github.com/alston-hsu)  
+[JJ Spetseris](https://github.com/jjspetz)  
