@@ -10,7 +10,7 @@ HTML, LESS, JavaScript, Postgres, Node.js, Express, HBS Framework, and Kube Fram
 
 ![Our Website](/webapp.png)
 
-Live @ [www.whattheflick.info](http://www.whattheflick.info)
+Live @ [www.whattheflick.info](https://www.whattheflick.info)
 
 ### Overview
 This web app is a game that pulls movie posters from themoviedb.org. The user must
